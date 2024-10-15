@@ -1,3 +1,5 @@
+package Labor1;
+
 public class Asg2 {
 
         public static int gasesteMax(int[] numere) {

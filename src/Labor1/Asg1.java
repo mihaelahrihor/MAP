@@ -1,3 +1,5 @@
+package Labor1;
+
 import java.util.Arrays;
 
 public class Asg1 {
